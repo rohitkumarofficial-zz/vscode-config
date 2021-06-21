@@ -1,0 +1,31 @@
+Snippets in Visual Studio Code
+	"editor.tabCompletion": "on"
+
+stylelint.vscode-stylelint
+
+dbaeumer.vscode-eslint
+
+ms-vscode.vscode-typescript-tslint-plugin
+
+eamodio.gitlens
+
+christian-kohler.path-intellisense
+
+Zignd.html-css-class-completion
+
+msjsdiag.debugger-for-chrome
+
+dbankier.vscode-instant-markdown
+
+techer.open-in-browser
+
+oderwat.indent-rainbow
+
+chakrounanas.turbo-console-log
+
+esbenp.prettier-vscode
+
+pnp.polacode
+
+aaron-bond.better-comments
+
